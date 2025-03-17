@@ -17,12 +17,22 @@ This project used the olympic dataset to analyse
 
 - <b>Jupyter Notebook</b> 
 
-<h2>Programme walk-through:</h2>
+<h2>Visuals</h2>
 
 <p align="center">
-Uploading the raw files: <br/>
-<img src="https://imgur.com/OyquqyV.png" height="80%" width="80%" />
+Inputting data: <br/>
+<img src="https://imgur.com/DugMPXr.png" height="80%" width="80%" />
 <br />
 <br />
-Selecting cut off time for flight to 2 hours:  <br/>
-<img src="https://imgur.com/Ljs6R2f.png" h
+Line graphs:  <br/>
+<img src="https://imgur.com/sQymYIY.png" height="80%" width="80%" />
+<br />
+<br />
+Histograms:  <br/>
+<img src="https://imgur.com/HiHAMBG.png" height="80%" width="80%" />
+<br />
+<br />
+Modelling:  <br/>
+<img src="https://imgur.com/1HSaTAn.png" height="80%" width="80%" />
+<img src="https://imgur.com/y2HGFNQ.png" height="80%" width="80%" />
+  
